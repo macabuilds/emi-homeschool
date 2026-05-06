@@ -344,7 +344,6 @@ Ages 3 · Newborn-friendly schedule · April 2026
     Made with love for Emi & her mama 🌸
   </div>
 </div>
-```
 
 );
 }
