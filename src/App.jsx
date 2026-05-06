@@ -166,7 +166,6 @@ Ages 3 · Newborn-friendly schedule · April 2026
 </div>
 </div>
 
-```
   {/* Tip banner */}
   <div style={{
     background: "#FFFBF0",
